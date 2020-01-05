@@ -10,4 +10,5 @@ layout: default
 Welcome to my site.  Below are some quick links to various writings I have put together.
 
 
-![Python Guides](https://github.com/SarahLN/SarahLN.github.io/blob/master/_assets/images/python_guides.png)
+![Python Guides](/assets/images/python_guides.png)
+![HHC2019](/assets/images/HHC2019.png)
